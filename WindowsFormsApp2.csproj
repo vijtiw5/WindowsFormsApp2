@@ -23,8 +23,9 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://raw.githubusercontent.com/vijtiw5/WindowsFormsApp2/master/Publish/</InstallUrl>
-    <ApplicationRevision>3</ApplicationRevision>
+    <InstallUrl>https://raw.githubusercontent.com/vijtiw5/WindowsFormsApp2/master/publish/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/vijtiw5/WindowsFormsApp2/master/publish/</UpdateUrl>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
